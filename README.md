@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarav
 - 👀 I'm interested in learning new things and creating an impact
-- 🌱 I’m currently learning ML&AI
+- 🌱 I’m currently learning .py .js & .css :p
 - ⚡ Fun fact: I'm an F1 and aviation enthusiast
 
 <!---
